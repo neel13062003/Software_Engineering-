@@ -23,7 +23,7 @@ Some miscellaneous topics read from my book.
 
 
 Numerical+Draw
--Cocomo model 2 Standard Problems
+-Cocomo model 2 Standard Problems = "https://youtu.be/XYoiYFz-o6s" , "https://youtu.be/HgatUf2yZgU" , "https://youtu.be/K76XWOCpvDY"
 -MTBF-MTTR
 -Error Seeding
 -cyclometic complexity
