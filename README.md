@@ -1,9 +1,9 @@
 <h1> Software_Engineering </h1>
 
 <div>
-Gate Smaeshers PlayList Helpful = "https://www.youtube.com/watch?v=uJpQlyT_CK4&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2"
-Easy Engineering Classes (usefull) = "https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm"
-Some miscellaneous topics read from my book.
+<li>Gate Smaeshers PlayList Helpful = "https://www.youtube.com/watch?v=uJpQlyT_CK4&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2" </li>
+<li>Easy Engineering Classes (usefull) = "https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm" </li>
+<li>Some miscellaneous topics read from my book. </li>
 </div>  
 </hr></br>  
 
