@@ -1,8 +1,9 @@
 Software Engineering
 
 Gate Smaeshers PlayList Helpful = "https://www.youtube.com/watch?v=uJpQlyT_CK4&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2"
-
+Some miscellaneous topics read from my book.
 *** Topic Should Be Cover => Theory + Example  ***
+
 
 -What is Software Engineering?
 -SDLC life Cycle
