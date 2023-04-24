@@ -29,8 +29,8 @@ Numerical+Draw
 -Error Seeding
 -cyclometic complexity
 -Grant Chart 
--CPM
--Halstead's  Metrix
+-CPM 
+-Halstead's  Metrix = "https://www.geeksforgeeks.org/software-engineering-halsteads-software-metrics/"
 -DFD 0,1,2
 -UFP , CAF , FUNCTIONAL POINT  = "https://youtu.be/w-yiSQtN6fQ"
 -Use Case Diagram, State Chart,Colloboration,Sequence Diagram,Deployment,Activity
