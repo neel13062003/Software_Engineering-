@@ -1,6 +1,7 @@
 Software Engineering
 
 Gate Smaeshers PlayList Helpful = "https://www.youtube.com/watch?v=uJpQlyT_CK4&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2"
+Easy Engineering Classes (usefull) = "https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm"
 Some miscellaneous topics read from my book.
 *** Topic Should Be Cover => Theory + Example  ***
 
@@ -31,6 +32,6 @@ Numerical+Draw
 -CPM
 -Halstead's  Metrix
 -DFD 0,1,2
--UFP , CAF , FUNCTIONAL POINT
+-UFP , CAF , FUNCTIONAL POINT  = "https://youtu.be/w-yiSQtN6fQ"
 -Use Case Diagram, State Chart,Colloboration,Sequence Diagram,Deployment,Activity
 
