@@ -39,6 +39,7 @@
 <li>-Grant Chart </li>
 <li>-CPM </li>
 <li>-Halstead's  Metrix = "https://www.geeksforgeeks.org/software-engineering-halsteads-software-metrics/" </li>
+<li>-NOP,Effort </li>
 <li>-DFD 0,1,2 </li>
 <li>-UFP , CAF , FUNCTIONAL POINT  = "https://youtu.be/w-yiSQtN6fQ" </li>
 <li>-Use Case Diagram, State Chart,Interaction Diagram(Colloboration,Sequence Diagram),Deployment,Activity</li> 
